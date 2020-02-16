@@ -25,14 +25,9 @@
 
 ### CH.10 Introducing CSS
 **CSS selectors**
-selector        | meaning                       | example
-----------------|-------------------------------|--------
-child selector  | Matches an element that is a  | `li>a {}`
-                |direct child of another        |
-Adjacent Sibling| Matches an element that is the| h1+p {} 
-                |next sibling of another Selecto|
-General Sibling | Matches an element that is a  | h1~p {}
-                |  sibling of another Selector  |                 
+child selector Matches an element that is a direct child of another. `li>a {}`
+Adjacent Sibling Matches an element that is the next sibling of another Selector. `h1+p {}`
+General Sibling Matches an element that is a sibling of another Selector. `h1~p {}`
 
 **How Css Rules Cascade**
 - last rule.
