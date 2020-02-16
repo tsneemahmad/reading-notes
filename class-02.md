@@ -28,9 +28,9 @@
 selector        | meaning                       | example
 ----------------|-------------------------------|--------
 child selector  | Matches an element that is a  | `li>a {}`
-                direct child of another
+                |direct child of another
 Adjacent Sibling| Matches an element that is the| h1+p {} 
-                next sibling of another Selector
+                |next sibling of another Selector
 General Sibling | Matches an element that is a  | h1~p {}
                    sibling of another
 Selector                   
