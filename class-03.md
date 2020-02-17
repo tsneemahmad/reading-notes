@@ -90,15 +90,16 @@ var highScore=10/'score';| Empty value
 var highScore;         | A variable with no value assigned to it
 
 - _truthy values_:
-VALUE                   |DESCRIPTION
+
+VALUE                   | DESCRIPTION
 ------------------------|------------------
-var hi ghScore = true ; |The traditional Boolean true
-var highScore = l;      |Numbers other than zero
-var highScore ='carrot';|Strings with content
-var highScore = 10/5;   |Number calculations
-var highScore = 'true'; |true written as a string
-var hi ghScore = ' O' ; |Zero written as a string
-var highScore = 'false';|false written as a string
+var hi ghScore = true ; | The traditional Boolean true
+var highScore = l;      | Numbers other than zero
+var highScore ='carrot';| Strings with content
+var highScore = 10/5;   | Number calculations
+var highScore = 'true'; | true written as a string
+var hi ghScore = ' O' ; | Zero written as a string
+var highScore = 'false';| false written as a string
 
 **SHORT CIRCUIT VALUES**
 Logical operators are processed left to right. They short-circuit (stop) as soon as they have a result - but they return the value that stopped the processing (not necessarily true or false).
