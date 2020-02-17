@@ -82,11 +82,12 @@ A switch statement starts with a variable called the switch value. Each case ind
 **TRUTHY & FALSY VALUES**
 Due to type coercion, every value in JavaScript can be treated as if it were true or false.
 - _falsy values_:
+
 VALUE                  | DESCRIPTION
 -----------------------|-------------------------------
 var highScore = false; | The traditional Boolean false
 var highScore = O;     | The number zero
-var highScore=10/'score';| Empty value
+varhighScore=10/'scor';| Empty value
 var highScore;         | A variable with no value assigned to it
 
 - _truthy values_:
@@ -94,7 +95,7 @@ var highScore;         | A variable with no value assigned to it
 VALUE                   | DESCRIPTION
 ------------------------|------------------
 var hi ghScore = true ; | The traditional Boolean true
-var highScore = l;      | Numbers other than zero
+var highScore = 1;      | Numbers other than zero
 var highScore ='carrot';| Strings with content
 var highScore = 10/5;   | Number calculations
 var highScore = 'true'; | true written as a string
