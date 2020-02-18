@@ -17,7 +17,7 @@ The definition list is created with the `<dl>` element and usually consists of a
 **nested lists**
 You can put a second list inside an `<li>` element to create a sublist or nested list.
 
-
+# CSS
 ### CH.13 BOXES
 **Box Dimensions**
 To set your own dimensions for a box you can use the height and width properties.
@@ -71,7 +71,7 @@ applies an image to the border of any box. It takes a background image and slice
 **box shadow**
 The box-shadow property allows you to add a drop shadow around a box.
 
-
+# JavaScript
 ### CH.4 DECISIONS & LOOPS
 **switch statements**
 A switch statement starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.

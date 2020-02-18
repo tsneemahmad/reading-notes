@@ -22,7 +22,7 @@
 - the `<del>` element can show text that has been deleted from it.
 - The `<s>` element indicates something that is no longer accurate or relevant (but that should not be deleted).
 
-
+# CSS
 ### CH.10 Introducing CSS
 **CSS selectors**
 - child selector Matches an element that is a direct child of another. `li>a {}`
@@ -39,7 +39,6 @@ You can force a lot of properties to inherit values from their parent elements b
 
 
 # JavaSCript
-
 ### CH.2 basic javascript instructions
 **ARRAYS**
 An array is a special type of variable. It doesn't just store one value; it stores a list of values.

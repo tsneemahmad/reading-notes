@@ -74,9 +74,10 @@ A wireframe is a simple sketch of the key information that needs to go on each p
    - Consistency.
    - headings.
 
-# The ABC of programming 
+# JavaScript
 
-## 1/a what is a script and how do i create one?
+## The ABC of programming 
+### 1/a what is a script and how do i create one?
 A script is a series of instructions that a computer can follow to achieve a goal.
 
 **WRITING A SCRIPT**
@@ -85,7 +86,7 @@ Start with the big picture of what you want to achieve, and break that down into
 2. _DESIGN THE SCRIPT_.
 3. _CODE EACH STEP_.
 
-## 2/b how do computers fit in with the world around them?
+### 2/b how do computers fit in with the world around them?
 COMPUTERS CREATE MODELS OF THE WORLD USING DATA.
 
 **OBJECTS & PROPERTIES**
@@ -113,7 +114,7 @@ _PUTTING IT ALL TOGETHER_
 Events can trigger methods, and methods can retrieve or update an object's properties.
 
 
-## 1/c how do i write a script for a web page?
+### 1/c how do i write a script for a web page?
 
 HOW HTML, CSS & JAVASCRIPT FIT TOGETHER?
 Web developers usually talk about three languages that are used to create web pages: HTML, CSS, and JavaScript.
