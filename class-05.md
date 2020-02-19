@@ -3,10 +3,10 @@
 ### CH.5 Images
 **adding images**
 To add an image into the pag eyou need to use an `<img>` element. 
-_src:_ This tells the browser where it can find the image file.
-_alt:_ This provides a text description of the image which describes the
+- _src:_ This tells the browser where it can find the image file.
+- _alt:_ This provides a text description of the image which describes the
 image if you cannot see it.
-_title:_ You can also use the title attribute with the `<img>` element to provide additional information about the image.
+- _title:_ You can also use the title attribute with the `<img>` element to provide additional information about the image.
 
 **Height & Width of Images**
 - height: This specifies the height of the image in pixels.
@@ -72,12 +72,12 @@ most common ways:
 @font-face allows you to use a font, even if it is not installed on the computer of the person browsing.
 
 **Bold**
-The font-weight property allows you to create bold text.There are two values that this property commonly takes:
+The font-weight property.There are two values that this property:
 1. normal.
 2. bold.
 
 **Italic**
-If you want to create italic text, you can use the font-style property. There are three values this property can take:
+font-style property. There are three values this property can take:
 1. normal.
 2. italic.
 3. oblique.
@@ -103,15 +103,14 @@ In CSS, the line-height property sets the height of an entire line of text, so t
 You can control the space between each letter with the letter-spacing property.
 
 **Alignment**
-The text-align property allows you to control the alignment of text. The property can take one of four values:
+The text-align property can take one of four values:
 - left.
 - right.
 - center.
 - justify.
 
 **Vertical Alignment**
-The vertical-align property It is not intended to allow you to
-vertically align text in the middle of block level elements such as `<p>` and `<div>`, although it does have this effect when used with table cells.
+The vertical-align property It is not intended to allow you to vertically align text in the middle of block level elements such as `<p>` and `<div>`, although it does have this effect when used with table cells.
 The values it can take are:
 1. baseline
 2. sub
