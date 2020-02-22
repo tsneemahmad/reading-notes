@@ -36,9 +36,7 @@ You can control the individual size of border's sides.
 - max-height.
 
 **overflowing content**
-The overflow property tells the browser what to do if the content
-contained within a box is larger than the box itself. It can have
-one of two values:
+The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values:
 - hidden: This property simply hides any extra content that does not fit in the box.
 - scroll: This property adds a scrollbar to the box so that users can scroll to see the missing content.
 
@@ -94,12 +92,12 @@ var highScore;         | A variable with no value assigned to it
 
 VALUE                   | DESCRIPTION
 ------------------------|------------------
-var hi ghScore = true ; | The traditional Boolean true
+var highScore = true ;  | The traditional Boolean true
 var highScore = 1;      | Numbers other than zero
 var highScore ='carrot';| Strings with content
 var highScore = 10/5;   | Number calculations
 var highScore = 'true'; | true written as a string
-var hi ghScore = ' O' ; | Zero written as a string
+var highScore = 'O' ;   | Zero written as a string
 var highScore = 'false';| false written as a string
 
 **SHORT CIRCUIT VALUES**
@@ -118,4 +116,4 @@ a for loop uses a counter as a condition. this instucts the code to run a specif
 - update.
 
 **_While loops_**
-This loop will continue to run for as long as the condition in the parentheses is true. That condition is a counter indicatingthat, as long as the variable i remains less than 10, the statements in the subsequent code block should run.
+This loop will continue to run for as long as the condition in the parentheses is true. That condition is a counter indicating that, as long as the variable i remains less than 10, the statements in the subsequent code block should run.

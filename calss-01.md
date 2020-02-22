@@ -20,7 +20,7 @@ in one block-level box.
 
 **Grouping Text & Elements Inline**
 The `<span>` element acts like an inline equivalent of the `<div>`
-element. It is used to either:
+element.
 
 **IFrames**
 An iframe is like a little window that has been cut into your page — and in that window you can see another page. attributes that you will use it: `src` `height` `width`

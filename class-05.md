@@ -2,10 +2,9 @@
 
 ### CH.5 Images
 **adding images**
-To add an image into the pag eyou need to use an `<img>` element. 
+To add an image into the page you need to use an `<img>` element. 
 - _src:_ This tells the browser where it can find the image file.
-- _alt:_ This provides a text description of the image which describes the
-image if you cannot see it.
+- _alt:_ This provides a text description of the image which describes the image if you cannot see it.
 - _title:_ You can also use the title attribute with the `<img>` element to provide additional information about the image.
 
 **Height & Width of Images**
@@ -57,7 +56,7 @@ it allows you to specify a color, just like you would with an RGB value, but add
 The value of the property starts with the letters hsl, followed by individual values inside parentheses.
 
 
-### CH.3 Text
+### CH.12 Text
 **Specifying Typefaces**
 The font-family property allows you to specify the typeface that should be used for any text inside the element.
 
@@ -97,7 +96,7 @@ The text-decoration property allows you to specify the following values:
 5. blink.
 
 **Leading**
-In CSS, the line-height property sets the height of an entire line of text, so the difference between the fontsize and the line-height is equivalent to the leading.
+In CSS, the line-height property sets the height of an entire line of text, so the difference between the font-size and the line-height is equivalent to the leading.
 
 **Letter & Word Spacing**
 You can control the space between each letter with the letter-spacing property.
@@ -128,8 +127,7 @@ The text-indent property allows you to indent the first line of text within an e
 The text-shadow property It is used to create a drop shadow.
 
 **First Letter or Line**
-You can specify different values for the first letter or first line of
-text inside an element using:
+You can specify different values for the first letter or first line of text inside an element using:
 `:first-letter` and `:first-line`.They are known as pseudo-elements.
 
 **Styling Links**

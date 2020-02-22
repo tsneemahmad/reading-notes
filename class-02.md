@@ -25,9 +25,9 @@
 # CSS
 ### CH.10 Introducing CSS
 **CSS selectors**
-- child selector Matches an element that is a direct child of another. `li>a {}`
-- Adjacent Sibling Matches an element that is the next sibling of another Selector. `h1+p {}`
-- General Sibling Matches an element that is a sibling of another Selector. `h1~p {}`
+- _child selector_ Matches an element that is a direct child of another. `li>a {}`
+- _Adjacent Sibling_ Matches an element that is the next sibling of another Selector. `h1+p {}`
+- _General Sibling_ Matches an element that is a sibling of another Selector. `h1~p {}`
 
 **How Css Rules Cascade**
 - last rule.
