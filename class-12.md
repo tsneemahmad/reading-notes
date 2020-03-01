@@ -19,6 +19,25 @@ When configuring interaction with the graph via hover or tooltips, a number of d
 9. y.
 
 
+# EASILY CREATE STUNNING ANIMATED CHARTS WITH CHART.JS
+**Setting up**
+The first thing we need to do is download Chart.js. Then create a new html page and import the script.
+
+**Drawing a line chart**
+To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. Next, we need to write a script that will retrieve the context of the canvas.Inside the same script tags we need to create our data.
+
+**Drawing a pie chart**
+First, we need the canvas element:
+`<canvas id="countries" width="600" height="400"></canvas>`
+Next, we need to get the context and to instantiate the chart. Next we need to create the data. This data is a little different to the line chart because the pie chart is simpler, we just need to supply a value and a color for each section.
+
+**Drawing a bar chart**
+First, we add the canvas element:
+`<canvas id="income" width="600" height="400"></canvas>`
+Next, we retrieve the element and create the graph. And finally, we add in the bar chart’s data.
+
+
+
 # Basic usage of canvas
 **The `<canvas>` element**
 Indeed, the `<canvas>` element has only two attributes, width and height. These are both optional and can also be set using DOM properties.
